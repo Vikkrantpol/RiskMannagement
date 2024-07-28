@@ -123,7 +123,7 @@ def get_stop_loss(stock_symbol):
 
 def main():
     stock_symbol = input("Enter stock symbol (e.g., RELIANCE.NS): ")
-    capital = 1208000
+    capital = 1445000
     
     price, change = get_stock_data(stock_symbol)
 
