@@ -1,5 +1,5 @@
 # RiskMannagement
-Risk Management with various features like virtual portfolio, plot of Darvas box theory, etc.
+Risk Management with various and unique features like virtual portfolio, plot of Darvas box theory, etc.
 
 52Week_Breakout.py is one of the many screeners. This script scans all the 1981 stock symbols from the file EQUITY_L.csv and identifies the names of the stocks that are at the fresh 52-week breakout, shortlists the names of the stocks, and saves them in the new CSV file called 52_Week_Breakout.csv.
 
@@ -18,4 +18,7 @@ Stockinfo6.py - After entering the name of the stock user will get the following
  6. Sector & industry,
  7. PE ratio,
  8. Chart of the stock as well.
+
+
+Trial25.py - The user has to enter the ticker of the stock. This script will calculate the Risk so that the risk on the entire capital won't cross 0.25% (For the default position sizing)
 
