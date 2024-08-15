@@ -5,10 +5,9 @@ Trial26.py
 Stock Data and Position Size Script
 
 This Risk Management system is purely based on "Technical Analysis".
-
+The Main and unique feature of the script is the risk will be always less than 0.25%.
 Overview
 
-The Main and unique feature of the script is risk will be always less than 0.25%(T&C apply).
 The Idea behind Making the Risk Management system is to make quick positions, as the price moves very fast at the time of breakout or while taking support.
 After taking insights from many great traders. I have built this Risk Management system so that traders can make quick positions, can set stop loss like professional traders, and can calculate risk quickly rather than wasting time on pen and paper. 
 
